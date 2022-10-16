@@ -2,7 +2,7 @@
 
 **`Aspiring Java Developer`**
 
-Hi, I am Elia Ashraf. I am a masters student in computer science. I follow a bunch of tutorials from YouTube or ceratin websites, which I link in my projects when uploading them on GitHub. I am learning to be a software developer one step at a time. For now I am laern Spring and its build tool Maven to gain some hands-on experience in Java EE. I constantly try to make my GitHub more fascinating. Thank you for stopping by and checking out my GitHub profile.
+Hi, I am Elia Ashraf. I am a masters student in computer science. I follow a bunch of tutorials from YouTube or certain websites, which I link in my projects when uploading them on GitHub. I am learning to be a software developer one step at a time. For now I am learning Spring and its build tool Maven to gain some hands-on experience in Java EE. I constantly try to make my GitHub more fascinating. Thank you for stopping by and checking out my GitHub profile.
  
  ---
  # 👩‍💻 Languages and Tools
