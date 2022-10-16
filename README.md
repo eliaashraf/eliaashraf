@@ -20,9 +20,9 @@ Hi, I am Elia Ashraf. I am a masters student in computer science. I follow a bun
 <img align="left" alt="HTML" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
 
 </br></br>
-
-
 # 
+
+
 <details> 
   
   <summary><h3>  📝 Elia's story </h3></summary>
@@ -38,10 +38,6 @@ Hi, I am Elia Ashraf. I am a masters student in computer science. I follow a bun
 
 
 
-<!---
-eliaashraf/eliaashraf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 
       
